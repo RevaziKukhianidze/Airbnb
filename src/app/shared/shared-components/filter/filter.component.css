@@ -1,0 +1,23 @@
+.filter-area {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(255, 255, 255);
+}
+.buttons-slider {
+  display: flex;
+  align-items: center;
+  padding: 0 1.2rem;
+  overflow: hidden;
+}
+.filter-modal-area {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.buttons-slider{
+  background-color: rgba(255, 255, 255, 0.822);
+}
